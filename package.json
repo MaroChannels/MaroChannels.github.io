@@ -1,0 +1,16 @@
+{
+  "name": "startbootstrap-one-page-wonder-gh-pages",
+  "version": "1.0.0",
+  "description": "Maro Channel's app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maro",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.1.0",
+    "electron-packager": "^15.5.1"
+  }
+}
